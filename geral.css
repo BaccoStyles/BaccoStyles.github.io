@@ -19,6 +19,7 @@
 }
 #titulo{
     color: #e6e6e6;
+    margin: 0px;
 }
 
 #pagina{
@@ -57,8 +58,8 @@
 }
 
 #imagens{
-    height: 300px;
-    width: 350px;
+    height: 100%;
+    width: 100%;
 }
 
 #imagens:hover{
@@ -126,7 +127,7 @@
 }
 
 form{
-    width: 70%;
+    width: 95%;
     margin: 0 auto;
     margin-top: 50px;
 }
@@ -137,4 +138,8 @@ border-style: groove;
 border-color: #e6e6e6;
 padding: 0px;
 margin: 10px;
+}
+
+#fieldset p{
+    margin-left: -1%;
 }
