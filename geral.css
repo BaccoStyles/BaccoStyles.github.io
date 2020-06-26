@@ -1,0 +1,140 @@
+#corpoindex{
+    background-color: #3a3838;
+}
+
+.corpocolor{
+    background-color: #3a3838;
+}
+
+.corpoQuemSomos{
+    background-color: #3a3838;
+}
+
+.navbar{
+    background-color: #e6e6e6;
+}
+
+#letra{
+    color: #3a3838;
+}
+#titulo{
+    color: #e6e6e6;
+}
+
+#pagina{
+    color: #e6e6e6;
+}
+
+.rodape {
+    margin: auto;
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+}
+
+#font a{
+    font-family: 'Major Mono Display', monospace;
+    font-size: 20px;
+    font-weight: bolder;
+    border-style: groove;
+    border-left-width: 2px;
+    border-right-width: 2px;
+    border-top-width: 0;
+    border-bottom-width: 0;
+}
+#font a:hover{
+    color: #000000;
+}
+
+#marcas{
+    color: #3a3838;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+#blococamisas{
+    margin: 3px;
+}
+
+#imagens{
+    height: 300px;
+    width: 350px;
+}
+
+#imagens:hover{
+    border-width: 1px;
+    border-style: solid;
+    border-color: #000000;}
+
+#descricaocamisas{
+    height: 30px;
+    width: 103%;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #000000;
+    background-color: #3a3838;
+    text-align: center;
+    color: #e6e6e6;
+}
+
+#descricaocamisas:hover{
+    background-color: #000000;
+}
+
+#descricaocamisas0{
+    height: 100px;
+    width: 100%;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #000000;
+    padding: 5px;
+}
+
+#descricaocamisas1{
+    height: 200px;
+    width: 100%;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #000000;
+    padding: 5px;
+}
+
+#descricaocamisas1 p{
+    font-size: 15px;
+}
+
+#selecao{
+    width: 350px;
+}
+
+#button{
+    float: right;
+}
+
+#Aula1{
+    padding: 0px;
+    width: 100%;
+}
+#Aula2{
+    padding: 0px;
+    width: 100%;
+}
+
+#Aula3{
+    padding: 0px;
+    width: 100%;
+}
+
+form{
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+#fieldset{
+border-width: 5px;
+border-style: groove;
+border-color: #e6e6e6;
+padding: 0px;
+margin: 10px;
+}
