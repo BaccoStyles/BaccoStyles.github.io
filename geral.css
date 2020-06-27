@@ -1,12 +1,14 @@
 #corpoindex{
     background-color: #3a3838;
+   /* background-image: linear-gradient(to right, #3a3838, #181717);*/
 }
 
 .corpocolor{
     background-color: #3a3838;
+    /*background-image: linear-gradient(to right, #3a3838, #181717)*/
 }
 
-.corpoQuemSomos{
+#corpoQuemSomos{
     background-color: #3a3838;
 }
 
@@ -135,6 +137,7 @@ form{
     width: 95%;
     margin: 0 auto;
     margin-top: 50px;
+    background-color: #3a3838;
 }
 
 #fieldset{
